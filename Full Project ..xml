@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-02-18 04:24 PM
+5.0.273.1028414 (1028414)
+e938264 (30 Dec 2025 7:04:13 pm)
+-->
+<scene title="Full Project ." width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="20165" fps="30" modifiedTime="1771412086038" amver="1028414" ffver="106" am="com.alightcreative.motion/5.0.273.1028414" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="am:DF2040541739D8486862B46EE0B26790D74B5CC9.mp4" filename="Saved-___3108___-.mp4" title="Saved-___3108___-.mp4" type="video/mp4" duration="20106000" size="857672" fps="0.30" sig="DF2040541739D8486862B46EE0B26790D74B5CC9" orientation="0" infoUpdated="1771411958376" width="1276" height="720" />
+  <media uri="am:BFB10AA6520670AFCD6296BC2B01EF5A1F7FE154.jpg" filename="retouch_2026020922034014.jpg" title="retouch_2026020922034014.jpg" type="image/jpeg" size="477552" sig="BFB10AA6520670AFCD6296BC2B01EF5A1F7FE154" orientation="0" infoUpdated="1771411958376" width="1919" height="687" />
+  <media uri="am:E1FBC0BCF25DDA87841E4E17F430C977222A8528.jpg" filename="3ecb3dfa8ed9f6f3cadc0b5d77a6fa2c (1).jpg" title="3ecb3dfa8ed9f6f3cadc0b5d77a6fa2c (1).jpg" type="image/jpeg" size="20937" sig="E1FBC0BCF25DDA87841E4E17F430C977222A8528" orientation="0" infoUpdated="1771411958376" width="480" height="600" />
+  <media uri="am:7C338BD5954CC5DF4715B2F898588C4C04DA4E76.png" filename="PhotoRoom-20260209_214947.png" title="PhotoRoom-20260209_214947.png" type="image/png" size="136849" sig="7C338BD5954CC5DF4715B2F898588C4C04DA4E76" orientation="0" infoUpdated="1771411958376" width="736" height="1104" />
+  <media uri="content://media/external/images/media/1000207769" filename="PhotoRoom-20260209_214626.png" title="PhotoRoom-20260209_214626.png" type="image/png" size="217557" orientation="0" infoUpdated="1771411958376" width="720" height="960" />
+  <bookmark t="2183" />
+  <bookmark t="4050" />
+  <bookmark t="6216" />
+  <bookmark t="8250" />
+  <bookmark t="10283" />
+  <bookmark t="12450" />
+  <bookmark t="14483" />
+  <bookmark t="16583" />
+  <bookmark t="20150" />
+  <audio id="102389517" startTime="0" endTime="20138" src="am:DF2040541739D8486862B46EE0B26790D74B5CC9.mp4" outTime="20106" mediaFillMode="fill" />
+  <shape id="102389543" label="retouch_2026020922034014.jpg" startTime="2166" endTime="20165" fillType="media" fillImage="am:BFB10AA6520670AFCD6296BC2B01EF5A1F7FE154.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="915.155396,331.816589,0.000000" />
+      <scale value="1.642558,1.642558" />
+    </transform>
+    <effect id="com.alightcreative.effects.tile" locallyApplied="false">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="false">
+      <property name="start" type="float" value="0.367000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="33.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="false">
+      <property name="strength" type="float" value="0.090000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,343.500000" />
+  </shape>
+  <shape id="102389524" label="3ecb3dfa8ed9f6f3cadc0b5d77a6fa2c (1).jpg" startTime="0" endTime="20165" fillType="media" fillImage="am:E1FBC0BCF25DDA87841E4E17F430C977222A8528.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1111.233032,908.016052,0.000000" />
+      <scale value="3.076088,3.076088" />
+    </transform>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="false">
+      <property name="start" type="float" value="0.453000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="18.300001" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="0.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="432.000000,540.000000" />
+  </shape>
+  <shape id="102389548" label="3ecb3dfa8ed9f6f3cadc0b5d77a6fa2c (1).jpg Copy" startTime="0" endTime="20165" fillType="media" fillImage="am:E1FBC0BCF25DDA87841E4E17F430C977222A8528.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1154.358032,-94.405762,50.341797" />
+      <scale value="3.076088,3.076088" />
+      <rotation value="-180.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="false">
+      <property name="start" type="float" value="0.453000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="18.300001" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="0.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="432.000000,540.000000" />
+  </shape>
+  <text id="102389526" startTime="0" endTime="2199" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="786.532837,556.237671,0.000000" />
+      <scale value="3.259416,3.259416" />
+    </transform>
+    <content>Them</content>
+  </text>
+  <shape id="102389527" label="PhotoRoom-20260209_214947.png" startTime="0" endTime="2199" fillType="media" fillImage="am:7C338BD5954CC5DF4715B2F898588C4C04DA4E76.png" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1047.459717,550.323608,0.000000" />
+      <scale value="0.344847,0.344847" />
+    </transform>
+    <property name="size" type="vec2" value="360.000000,540.000000" />
+  </shape>
+  <shape id="102389569" label="Rectangle 1" startTime="0" endTime="2199" fillType="color" blending="mask" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="1.283103,1.283103" />
+    </transform>
+    <fillColor value="#ffcd5745" />
+    <property name="size" type="vec2">
+      <kf t="0.932242" v="1514.000000,171.000000" e="cubicBezier 0.0 1.0 0.75 0.75" />
+      <kf t="0.007276" v="1514.000000,0.000000" />
+    </property>
+  </shape>
+  <text id="102389529" startTime="2166" endTime="4065" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="642.538086,701.124146,0.000000" />
+      <scale value="3.285979,3.285979" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <content>Thooil </content>
+  </text>
+  <text id="102389530" label="Thooil Copy" startTime="2700" endTime="4065" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="727.560791,797.190796,0.000000" />
+      <scale value="1.020338,1.020338" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>Parichayamoka </content>
+  </text>
+  <text id="102389532" startTime="4033" endTime="6232" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1510.586060,652.342468,0.000000" />
+      <scale value="3.041162,3.041162" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <content>Teeyani </content>
+  </text>
+  <text id="102389533" label="Teeyani Copy" startTime="4700" endTime="6232" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1576.235352,738.119019,0.000000" />
+      <scale value="1.347437,1.347437" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>Kalaga</content>
+  </text>
+  <text id="102389535" startTime="6200" endTime="8265" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="983.039917,617.831177,0.000000" />
+      <scale value="10.076114,10.076114" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <content>Nilipina </content>
+  </text>
+  <text id="102389536" startTime="6867" endTime="8265" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1209.806030,867.025635,0.000000" />
+      <scale value="2.269075,2.269075" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>HRUDAYAME </content>
+  </text>
+  <text id="102389539" startTime="8233" endTime="10299" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="678.559143,596.127441,0.000000" />
+      <scale value="3.000457,3.000457" />
+    </transform>
+    <content>Sakshiga</content>
+  </text>
+  <text id="102389571" startTime="8233" endTime="10299" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="766.035034,686.187927,0.000000" />
+      <scale value="0.881005,0.881005" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>Sakshiga</content>
+  </text>
+  <text id="102389541" startTime="10266" endTime="12465" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1568.721069,618.956177,0.000000" />
+      <scale value="3.025569,3.025569" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <content>Gnapakam</content>
+  </text>
+  <text id="102389570" startTime="10266" endTime="12465" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1691.128174,695.471008,0.000000" />
+      <scale value="0.950142,0.950142" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>Gnapakam</content>
+  </text>
+  <text id="102389561" startTime="12433" endTime="14499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1039.915039,557.070923,0.000000" />
+      <scale value="9.278899,9.278899" />
+    </transform>
+    <content>Deevinchaga</content>
+  </text>
+  <text id="102389572" label="Deevinchaga Copy" startTime="12433" endTime="14499" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="964.112915,811.758789,0.000000" />
+      <scale value="1.677512,1.677512" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.textspacing" locallyApplied="false">
+      <property name="letterspacing" type="float" value="0.700000" />
+      <property name="linespacing" type="float" value="1.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="1.000000" />
+    </path-stroke>
+    <content>DEEVINCHAGA</content>
+  </text>
+  <text id="102389559" startTime="14466" endTime="16599" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="972.173767,558.903320,0.000000" />
+      <scale value="4.038418,4.038418" />
+    </transform>
+    <content>Cheli jeevitham </content>
+  </text>
+  <text id="102389563" startTime="16566" endTime="20165" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Great Vibes&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="966.941711,633.825256,0.000000" />
+      <scale value="4.955040,4.955040" />
+    </transform>
+    <content>Veliginchagaa</content>
+  </text>
+  <shape id="102394701" label="PhotoRoom-20260209_214626.png" startTime="2166" endTime="20165" fillType="media" fillImage="content://media/external/images/media/1000207769" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="908.115479,513.155884,-85.761719" />
+      <scale value="1.283013,1.283013" />
+    </transform>
+    <property name="size" type="vec2" value="405.000000,540.000000" />
+  </shape>
+  <camera id="102389544" label="Camera 1" startTime="0" endTime="6232" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.350289" v="960.000000,540.000000,-1514.807861" />
+        <kf t="0.002567" v="960.000000,540.000000,-2133.503174" />
+        <kf t="0.649872" v="960.000000,540.000000,-1164.034424" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="0.676508" v="1292.240601,540.000000,-1164.034424" />
+        <kf t="0.997433" v="1352.559082,540.000000,-1164.034424" />
+      </location>
+    </transform>
+    <fov value="60.000000" />
+    <focus-blur enabled="false">
+      <strength value="0.500000" />
+      <depth-of-field value="166.276886" />
+      <distance value="1662.768799" />
+    </focus-blur>
+    <fog enabled="false">
+      <near-z value="1662.768799" />
+      <far-z value="3325.537598" />
+    </fog>
+  </camera>
+  <camera id="102389545" label="Camera 1" startTime="6200" endTime="8265" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="-1.945279" v="723.281250,498.359253,-1514.807861" />
+        <kf t="-2.994673" v="723.281250,498.359253,-2133.503174" />
+        <kf t="-1.041162" v="723.281250,498.359253,-1164.034424" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="-0.831477" v="1055.521851,498.359253,-1164.034424" />
+        <kf t="0.007748" v="1115.840332,498.359253,-1164.034424" />
+        <kf t="0.088620" v="1115.840332,498.359253,-1385.690674" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="0.992736" v="1115.840332,498.359253,-1682.190674" />
+      </location>
+    </transform>
+    <fov value="60.000000" />
+    <focus-blur enabled="false">
+      <strength value="0.500000" />
+      <depth-of-field value="166.276886" />
+      <distance value="1662.768799" />
+    </focus-blur>
+    <fog enabled="false">
+      <near-z value="1662.768799" />
+      <far-z value="3325.537598" />
+    </fog>
+  </camera>
+  <camera id="102389546" label="Camera 1" startTime="8233" endTime="12465" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="-1.429584" v="723.281250,498.359253,-1514.807861" />
+        <kf t="-1.941635" v="723.281250,498.359253,-2133.503174" />
+        <kf t="-0.988422" v="723.281250,498.359253,-1164.034424" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="-0.886106" v="1055.521851,498.359253,-1164.034424" />
+        <kf t="-0.476607" v="1115.840332,498.359253,-1164.034424" />
+        <kf t="-0.437146" v="1115.840332,498.359253,-1385.690674" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="0.059074" v="887.484863,420.758911,-1035.487549" e="cubicBezier 0.0 1.0 0.65863854 0.9290407" />
+        <kf t="0.004017" v="441.471252,439.867584,-1045.530273" />
+        <kf t="0.484405" v="975.654907,417.870178,-1035.487549" />
+        <kf t="0.523866" v="1358.312866,419.558655,-1035.487549" />
+        <kf t="0.996456" v="1453.677368,419.558655,-1035.487549" />
+      </location>
+    </transform>
+    <fov value="60.000000" />
+    <focus-blur enabled="false">
+      <strength value="0.500000" />
+      <depth-of-field value="166.276886" />
+      <distance value="1662.768799" />
+    </focus-blur>
+    <fog enabled="false">
+      <near-z value="1662.768799" />
+      <far-z value="3325.537598" />
+    </fog>
+  </camera>
+  <camera id="102389547" label="Camera 1" startTime="12433" endTime="20165" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="-1.325660" v="269.531250,493.281250,-1514.807861" />
+        <kf t="-1.605923" v="269.531250,493.281250,-2133.503174" />
+        <kf t="-1.084196" v="269.531250,493.281250,-1164.034424" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="-1.028195" v="601.771851,493.281250,-1164.034424" />
+        <kf t="-0.804061" v="662.090332,493.281250,-1164.034424" />
+        <kf t="-0.782462" v="662.090332,493.281250,-1385.690674" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="-0.510864" v="433.734863,415.680908,-1035.487549" e="cubicBezier 0.0 1.0 0.65863854 0.9290407" />
+        <kf t="-0.540998" v="-12.278748,434.789581,-1045.530273" />
+        <kf t="-0.278065" v="521.904907,412.792175,-1035.487549" />
+        <kf t="-0.256467" v="904.562683,414.480652,-1035.487549" />
+        <kf t="0.002199" v="999.927124,414.480652,-1035.487549" />
+        <kf t="0.265132" v="999.927124,414.480652,-1598.776611" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="0.299664" v="999.927124,414.480652,-1287.425049" e="cubicBezier 0.0 1.0 0.75 0.75" />
+        <kf t="0.536730" v="999.927124,414.480652,-1033.198486" />
+        <kf t="0.998060" v="999.927124,414.480652,-1551.362549" e="cubicBezier 0.0 1.0 0.75 0.75" />
+      </location>
+    </transform>
+    <fov value="60.000000" />
+    <focus-blur enabled="false">
+      <strength value="0.500000" />
+      <depth-of-field value="166.276886" />
+      <distance value="1662.768799" />
+    </focus-blur>
+    <fog enabled="false">
+      <near-z value="1662.768799" />
+      <far-z value="3325.537598" />
+    </fog>
+  </camera>
+</scene>
